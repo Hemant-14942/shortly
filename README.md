@@ -45,7 +45,7 @@ shortly/
 Clone the repository
 
 bash
-git clone https://github.com/yourusername/shortly.git
+git clone https://github.com/Hemant-14942/shortly.git
 cd shortly
 Install dependencies
 
